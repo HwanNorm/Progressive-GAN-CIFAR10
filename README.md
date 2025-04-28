@@ -1,1 +1,1 @@
-# GAN
+# Progressive-GAN-CIFAR10
